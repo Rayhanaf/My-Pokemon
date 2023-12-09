@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Pokemon Bio</string>
+
+    <string name="Scorbunny">Scorbunny</string>
+    <string name="scorbunny_description">Scorbunny (Japanese: ヒバニー Hibanny) is a Fire-type Pokémon introduced in Generation VIII. It evolves into Raboot starting at level 16, which evolves into Cinderace starting at level 35. Along with Grookey and Sobble, Scorbunny is one of three starter Pokémon of Galar available at the beginning of Pokémon Sword and Shield. Along with Grookey and Sobble, it was the first Generation VIII Pokémon to be revealed to the public on February 27, 2019.</string>
+
+    <string-array name="data_name">
+        <item>Scorbunny</item>
+        <item>Cinderace</item>
+        <item>Grookey</item>
+        <item>Thwackey</item>
+        <item>Sobble</item>
+        <item>Inteleon</item>
+        <item>Raichu</item>
+        <item>Munchlax</item>
+        <item>Quaquaval</item>
+        <item>Meowscarada</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Scorbunny (Japanese: ヒバニー Hibanny) is a Fire-type Pokémon introduced in Generation VIII. It evolves into Raboot starting at level 16, which evolves into Cinderace starting at level 35. Along with Grookey and Sobble, Scorbunny is one of three starter Pokémon of Galar available at the beginning of Pokémon Sword and Shield. Along with Grookey and Sobble, it was the first Generation VIII Pokémon to be revealed to the public on February 27, 2019.</item>
+        <item>Cinderace (Japanese: エースバーン Aceburn) is a Fire-type Pokémon introduced in Generation VIII. It evolves from Raboot starting at level 35. It is the final form of Scorbunny. Cinderace can Gigantamax into Gigantamax Cinderace if it has the Gigantamax Factor. Gigantamax Cinderace was introduced in The Isle of Armor.</item>
+        <item>Grookey (Japanese: サルノリ Sarunori) is a Grass-type Pokémon introduced in Generation VIII. It evolves into Thwackey starting at level 16, which evolves into Rillaboom starting at level 35. Along with Scorbunny and Sobble, Grookey is one of three starter Pokémon of Galar available at the beginning of Pokémon Sword and Shield. Along with Scorbunny and Sobble, it was the first Generation VIII Pokémon to be revealed to the public on February 27, 2019.</item>
+        <item>Thwackey (バチンキー, Bachinkii) is a Grass-type Pokémon introduced in Generation VIII. Thwackey is a yellowish-green monkey-like Pokémon. It resembles its pre-evolution in most aspects. Its humanoid hands are orange with green armbands and brown arms, while its fur becomes a lighter green. The ”mask” on its face has taken on a slightly different shape, now resembling sunglasses and with two protrusions that resemble two leaves above its eyes.</item>
+        <item>Sobble (Japanese: メッソン Messon) is a Water-type Pokémon introduced in Generation VIII. It evolves into Drizzile starting at level 16, which evolves into Inteleon starting at level 35. Along with Grookey and Scorbunny, Sobble is one of three starter Pokémon of Galar available at the beginning of Pokémon Sword and Shield. Along with Grookey and Scorbunny, it was the first Generation VIII Pokémon to be revealed to the public on February 27, 2019.</item>
+        <item>Inteleon (Japanese: インテレオン Intereon) is a Water-type Pokémon introduced in Generation VIII. It evolves from Drizzile starting at level 35. It is the final form of Sobble. Inteleon can Gigantamax into Gigantamax Inteleon if it has the Gigantamax Factor. Gigantamax Inteleon was introduced in The Isle of Armor.</item>
+        <item>Raichu (Japanese: ライチュウ Raichu) is an Electric-type Pokémon introduced in Generation I. It evolves from Pikachu when exposed to a Thunder Stone. It is the final form of Pichu. In Alola, Raichu has a dual-type Electric/Psychic regional form. It evolves from Pikachu when exposed to a Thunder Stone. All Pikachu in Alola will evolve into this form regardless of their origin. It is the final form of Pichu in the Alola region.</item>
+        <item>Munchlax (Japanese: ゴンベ Gonbe) is a Normal-type baby Pokémon introduced in Generation IV. It evolves into Snorlax when leveled up with high friendship. It was the first Generation IV Pokémon to be revealed to the public, in May 2004.</item>
+        <item>Quaquaval (ウェーニバル, Weenibaru) is a Water/Fighting-type Pokémon introduced in Generation IX. It is the final evolved form of Quaxly. Quaquaval body is very slender, with the exception of its plump, rounded rump and lower torso, and its feathers turn dark blue/indigo.</item>
+        <item>Meowscarada (マスカーニャ, Masukānya) is a Grass/Dark-type Pokémon introduced in Generation IX. It is the final evolved form of Sprigatito. Meowscarada resembles an anthropomorphic feline with light green fur covering its main body, with the exception of its dark green legs.</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/scorbunny</item>
+        <item>@drawable/cinderace</item>
+        <item>@drawable/grookey</item>
+        <item>@drawable/thwackey</item>
+        <item>@drawable/sobble</item>
+        <item>@drawable/intelion</item>
+        <item>@drawable/raichu</item>
+        <item>@drawable/munchlax</item>
+        <item>@drawable/quaquaval</item>
+        <item>@drawable/meowscarada</item>
+
+    </integer-array>
+
+</resources>
